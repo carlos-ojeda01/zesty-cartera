@@ -1,0 +1,32 @@
+{
+ "items": [
+  {
+   "symbol": "AAPL",
+   "quantity": 0.880336265,
+   "totalValue": 295.467261,
+   "cost": 229.31,
+   "variation": 66.157261,
+   "avgBuyPrice": 260.48,
+   "asset": {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "assetType": "Stock",
+    "price": 335.63
+   }
+  },
+  {
+   "symbol": "VOO",
+   "quantity": 0.372362762,
+   "totalValue": 265.738547,
+   "cost": 239.28,
+   "variation": 26.458547,
+   "avgBuyPrice": 642.599,
+   "asset": {
+    "name": "Vanguard S&P 500 ETF",
+    "symbol": "VOO",
+    "assetType": "ETF",
+    "price": 713.655
+   }
+  }
+ ]
+}

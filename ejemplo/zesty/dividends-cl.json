@@ -1,0 +1,53 @@
+{
+ "data": [
+  {
+   "dividendId": "00000000-0000-4000-8000-00000000000b",
+   "symbol": "FALABELLA",
+   "amount": 1209,
+   "date": "2026-05-20T04:00:00.000Z",
+   "asset": {
+    "name": "Falabella S.A.",
+    "symbol": "FALABELLA",
+    "assetType": "Stock",
+    "exchange": "BCS"
+   }
+  },
+  {
+   "dividendId": "00000000-0000-4000-8000-00000000000a",
+   "symbol": "CENCOSUD",
+   "amount": 3192,
+   "date": "2026-05-12T04:00:00.000Z",
+   "asset": {
+    "name": "Cencosud S.A.",
+    "symbol": "CENCOSUD",
+    "assetType": "Stock",
+    "exchange": "BCS"
+   }
+  },
+  {
+   "dividendId": "00000000-0000-4000-8000-000000000009",
+   "symbol": "CFMITNIPSA",
+   "amount": 1602,
+   "date": "2026-05-14T04:00:00.000Z",
+   "asset": {
+    "name": "Itaú ETF IT Now S&P IPSA",
+    "symbol": "CFMITNIPSA",
+    "assetType": "ETF",
+    "exchange": "BCS"
+   }
+  },
+  {
+   "dividendId": "00000000-0000-4000-8000-000000000008",
+   "symbol": "CFMITNIPSA",
+   "amount": 1246,
+   "date": "2026-05-07T04:00:00.000Z",
+   "asset": {
+    "name": "Itaú ETF IT Now S&P IPSA",
+    "symbol": "CFMITNIPSA",
+    "assetType": "ETF",
+    "exchange": "BCS"
+   }
+  }
+ ],
+ "nextToken": null
+}

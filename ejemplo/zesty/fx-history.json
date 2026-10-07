@@ -1,0 +1,25 @@
+{
+ "data": [
+  {
+   "fxId": "00000000-0000-4000-8000-000000000011",
+   "side": "buy",
+   "usdToClp": 945.64,
+   "status": "delivered",
+   "createdAt": "2026-09-02T15:00:00.000Z",
+   "updatedAt": "2026-09-02T15:00:05.000Z",
+   "amount": 70000,
+   "amountInUsd": 74.0239
+  },
+  {
+   "fxId": "00000000-0000-4000-8000-000000000005",
+   "side": "buy",
+   "usdToClp": 901.62,
+   "status": "delivered",
+   "createdAt": "2026-04-10T15:00:00.000Z",
+   "updatedAt": "2026-04-10T15:00:05.000Z",
+   "amount": 400000,
+   "amountInUsd": 443.6459
+  }
+ ],
+ "nextToken": null
+}

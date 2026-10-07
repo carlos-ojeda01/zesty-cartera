@@ -1,0 +1,32 @@
+# dependencias
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+*.tsbuildinfo
+/ios
+/android
+
+# ─── TUS DATOS: nunca al repo ───────────────────────────────────────────
+# Las respuestas del MCP de Zesty, tus operaciones manuales y el historial de
+# precios de la corredora viven solo en tu computador.
+data/*
+!data/README.md
+# El tablero ya armado (se regenera con npm run snapshot).
+public/data/
+# Lo que el demo escribe al correr.
+ejemplo/precios-corredora.json
+
+# credenciales locales (este proyecto no usa ninguna, pero por si acaso)
+.env
+.env*.local
+*.pem
+*.key
+
+# sistema
+.DS_Store
+npm-debug.*

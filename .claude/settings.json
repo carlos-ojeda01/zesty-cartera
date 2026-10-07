@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__zesty__get_account_status",
+      "mcp__zesty__get_positions",
+      "mcp__zesty__get_balance",
+      "mcp__zesty__get_orders",
+      "mcp__zesty__get_order_detail",
+      "mcp__zesty__get_dividends",
+      "mcp__zesty__get_movements",
+      "mcp__zesty__get_fx_history",
+      "mcp__zesty__get_pending_fx",
+      "mcp__zesty__get_market_status",
+      "mcp__zesty__get_asset_details",
+      "Bash(npm run snapshot)",
+      "Bash(npm run precios)",
+      "Bash(npm run demo)",
+      "Bash(npm run dashboard)",
+      "Bash(npm install)",
+      "Bash(npm test)"
+    ],
+    "deny": [
+      "mcp__zesty__preview_us_market_order",
+      "mcp__zesty__preview_us_limit_order",
+      "mcp__zesty__preview_us_stop_order",
+      "mcp__zesty__preview_us_trailing_stop_order",
+      "mcp__zesty__preview_us_bracket_order",
+      "mcp__zesty__preview_us_crypto_order",
+      "mcp__zesty__preview_cl_limit_order",
+      "mcp__zesty__preview_buy_usd",
+      "mcp__zesty__preview_sell_usd",
+      "mcp__zesty__confirm_us_order",
+      "mcp__zesty__confirm_cl_order",
+      "mcp__zesty__confirm_buy_usd",
+      "mcp__zesty__confirm_sell_usd",
+      "mcp__zesty__apps_preview_us_order",
+      "mcp__zesty__apps_confirm_us_order",
+      "mcp__zesty__cancel_order",
+      "mcp__zesty__send_feedback"
+    ]
+  }
+}

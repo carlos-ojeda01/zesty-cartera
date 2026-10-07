@@ -1,0 +1,71 @@
+{
+ "data": [
+  {
+   "symbol": "VOO",
+   "side": "buy",
+   "status": "Completada",
+   "qty": null,
+   "orderClass": "",
+   "orderId": "00000000-0000-4000-8000-000000000012",
+   "type": "market",
+   "createdAt": "2026-09-02T15:30:00Z",
+   "notional": "60",
+   "timeInForce": "day",
+   "filledQty": "0.085042866",
+   "filledAvgPrice": "703.4099731445312",
+   "commission": "0.18",
+   "filledTotalAmount": "60",
+   "filledTotalAmountWithoutCommission": "59.82",
+   "asset": {
+    "name": "Vanguard S&P 500 ETF",
+    "symbol": "VOO",
+    "assetType": "ETF"
+   }
+  },
+  {
+   "symbol": "VOO",
+   "side": "buy",
+   "status": "Completada",
+   "qty": null,
+   "orderClass": "",
+   "orderId": "00000000-0000-4000-8000-000000000007",
+   "type": "market",
+   "createdAt": "2026-04-10T15:30:00Z",
+   "notional": "180",
+   "timeInForce": "day",
+   "filledQty": "0.287319896",
+   "filledAvgPrice": "624.5999755859375",
+   "commission": "0.54",
+   "filledTotalAmount": "180",
+   "filledTotalAmountWithoutCommission": "179.46",
+   "asset": {
+    "name": "Vanguard S&P 500 ETF",
+    "symbol": "VOO",
+    "assetType": "ETF"
+   }
+  },
+  {
+   "symbol": "AAPL",
+   "side": "buy",
+   "status": "Completada",
+   "qty": null,
+   "orderClass": "",
+   "orderId": "00000000-0000-4000-8000-000000000006",
+   "type": "market",
+   "createdAt": "2026-04-10T15:30:00Z",
+   "notional": "230",
+   "timeInForce": "day",
+   "filledQty": "0.880336265",
+   "filledAvgPrice": "260.4800109863281",
+   "commission": "0.69",
+   "filledTotalAmount": "230",
+   "filledTotalAmountWithoutCommission": "229.31",
+   "asset": {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "assetType": "Stock"
+   }
+  }
+ ],
+ "nextToken": null
+}

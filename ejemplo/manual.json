@@ -1,0 +1,13 @@
+{
+  "trades": [
+    {
+      "symbol": "COPEC",
+      "market": "cl",
+      "side": "buy",
+      "executed_at": "2025-10-06",
+      "qty": 40,
+      "price": 6680,
+      "note": "ESTIMADO: traspaso desde otra corredora; fecha aproximada, precio = precio promedio que muestra Zesty"
+    }
+  ]
+}

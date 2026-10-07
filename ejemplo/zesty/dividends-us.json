@@ -1,0 +1,77 @@
+{
+ "data": [
+  {
+   "dividendId": "DEMO-NRA-00000000-0000-4000-8000-000000000014",
+   "symbol": "VOO",
+   "entryType": "DIVNRA",
+   "amount": -0.1,
+   "date": "2026-09-30T14:00:01.000Z",
+   "asset": {
+    "name": "Vanguard S&P 500 ETF",
+    "symbol": "VOO",
+    "assetType": "ETF"
+   }
+  },
+  {
+   "dividendId": "DEMO-DIV-00000000-0000-4000-8000-000000000013",
+   "symbol": "VOO",
+   "entryType": "DIV",
+   "amount": 0.65,
+   "date": "2026-09-30T14:00:00.000Z",
+   "asset": {
+    "name": "Vanguard S&P 500 ETF",
+    "symbol": "VOO",
+    "assetType": "ETF"
+   }
+  },
+  {
+   "dividendId": "DEMO-NRA-00000000-0000-4000-8000-000000000010",
+   "symbol": "AAPL",
+   "entryType": "DIVNRA",
+   "amount": -0.03,
+   "date": "2026-08-14T14:00:01.000Z",
+   "asset": {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "assetType": "Stock"
+   }
+  },
+  {
+   "dividendId": "DEMO-DIV-00000000-0000-4000-8000-00000000000f",
+   "symbol": "AAPL",
+   "entryType": "DIV",
+   "amount": 0.23,
+   "date": "2026-08-14T14:00:00.000Z",
+   "asset": {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "assetType": "Stock"
+   }
+  },
+  {
+   "dividendId": "DEMO-NRA-00000000-0000-4000-8000-00000000000d",
+   "symbol": "AAPL",
+   "entryType": "DIVNRA",
+   "amount": -0.03,
+   "date": "2026-05-15T14:00:01.000Z",
+   "asset": {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "assetType": "Stock"
+   }
+  },
+  {
+   "dividendId": "DEMO-DIV-00000000-0000-4000-8000-00000000000c",
+   "symbol": "AAPL",
+   "entryType": "DIV",
+   "amount": 0.23,
+   "date": "2026-05-15T14:00:00.000Z",
+   "asset": {
+    "name": "Apple Inc.",
+    "symbol": "AAPL",
+    "assetType": "Stock"
+   }
+  }
+ ],
+ "nextToken": null
+}

@@ -1,0 +1,94 @@
+{
+ "items": [
+  {
+   "symbol": "COPEC",
+   "qty": 40,
+   "qtyAvailable": 40,
+   "avgPrice": 6680,
+   "side": "long",
+   "currentPrice": 6475.7,
+   "marketValue": 259028,
+   "costBasis": 267200,
+   "unrealizedPl": -8172,
+   "lastDayPrice": 6430,
+   "asset": {
+    "name": "Empresas Copec S.A.",
+    "symbol": "COPEC",
+    "assetType": "Stock",
+    "price": 6475.7
+   }
+  },
+  {
+   "symbol": "CFMITNIPSA",
+   "qty": 89,
+   "qtyAvailable": 89,
+   "avgPrice": 4706.200225,
+   "side": "long",
+   "currentPrice": 5069.5,
+   "marketValue": 451185.5,
+   "costBasis": 418851.82,
+   "unrealizedPl": 32333.68,
+   "lastDayPrice": 5035.39990234375,
+   "asset": {
+    "name": "Itaú ETF IT Now S&P IPSA",
+    "symbol": "CFMITNIPSA",
+    "assetType": "ETF",
+    "price": 5069.5
+   }
+  },
+  {
+   "symbol": "SQM-B",
+   "qty": 3,
+   "qtyAvailable": 3,
+   "avgPrice": 58110,
+   "side": "long",
+   "currentPrice": 63404,
+   "marketValue": 190212,
+   "costBasis": 174330,
+   "unrealizedPl": 15882,
+   "lastDayPrice": 65450,
+   "asset": {
+    "name": "Sociedad Química y Minera de Chile S.A.",
+    "symbol": "SQM-B",
+    "assetType": "Stock",
+    "price": 63404
+   }
+  },
+  {
+   "symbol": "FALABELLA",
+   "qty": 39,
+   "qtyAvailable": 39,
+   "avgPrice": 6320,
+   "side": "long",
+   "currentPrice": 6435.4,
+   "marketValue": 250980.6,
+   "costBasis": 246480,
+   "unrealizedPl": 4500.6,
+   "lastDayPrice": 6599,
+   "asset": {
+    "name": "Falabella S.A.",
+    "symbol": "FALABELLA",
+    "assetType": "Stock",
+    "price": 6435.4
+   }
+  },
+  {
+   "symbol": "CENCOSUD",
+   "qty": 76,
+   "qtyAvailable": 76,
+   "avgPrice": 2619.7,
+   "side": "long",
+   "currentPrice": 1868,
+   "marketValue": 141968,
+   "costBasis": 199097.2,
+   "unrealizedPl": -57129.2,
+   "lastDayPrice": 2090,
+   "asset": {
+    "name": "Cencosud S.A.",
+    "symbol": "CENCOSUD",
+    "assetType": "Stock",
+    "price": 1868
+   }
+  }
+ ]
+}

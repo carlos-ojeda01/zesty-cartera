@@ -1,0 +1,430 @@
+{
+ "data": [
+  {
+   "orderUuid": "00000000-0000-4000-8000-00000000000e",
+   "side": "sell",
+   "orderType": "limit",
+   "createdAt": "2026-06-18T14:00:00.000Z",
+   "updatedAt": "2026-06-18T14:02:10.000Z",
+   "symbol": "SQM-B",
+   "filledQty": 2,
+   "filledTotal": 143643,
+   "limitPrice": 71950,
+   "total": 143643,
+   "price": {
+    "primaryValue": {
+     "value": "Precio promedio"
+    },
+    "secondaryValue": {
+     "value": 71950
+    }
+   },
+   "qty": {
+    "primaryValue": {
+     "value": "Acciones vendidas"
+    },
+    "secondaryValue": {
+     "value": "2/2"
+    }
+   },
+   "summaryLines": [
+    {
+     "primaryValue": {
+      "value": "Sub total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 143900,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Comisión",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 216,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Iva",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 41,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 143643,
+      "color": "primary",
+      "bold": true
+     }
+    }
+   ],
+   "status": "Completada",
+   "asset": {
+    "name": "Sociedad Química y Minera de Chile S.A.",
+    "symbol": "SQM-B",
+    "assetType": "Stock",
+    "exchange": "BCS"
+   }
+  },
+  {
+   "orderUuid": "00000000-0000-4000-8000-000000000004",
+   "side": "buy",
+   "orderType": "limit",
+   "createdAt": "2026-03-05T14:00:00.000Z",
+   "updatedAt": "2026-03-05T14:02:10.000Z",
+   "symbol": "CENCOSUD",
+   "filledQty": 76,
+   "filledTotal": 199453.2,
+   "limitPrice": 2619.699951171875,
+   "total": 199453.2,
+   "price": {
+    "primaryValue": {
+     "value": "Precio promedio"
+    },
+    "secondaryValue": {
+     "value": 2619.699951171875
+    }
+   },
+   "qty": {
+    "primaryValue": {
+     "value": "Acciones compradas"
+    },
+    "secondaryValue": {
+     "value": "76/76"
+    }
+   },
+   "summaryLines": [
+    {
+     "primaryValue": {
+      "value": "Sub total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 199097.2,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Comisión",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 299,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Iva",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 57,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 199453.2,
+      "color": "primary",
+      "bold": true
+     }
+    }
+   ],
+   "status": "Completada",
+   "asset": {
+    "name": "Cencosud S.A.",
+    "symbol": "CENCOSUD",
+    "assetType": "Stock",
+    "exchange": "BCS"
+   }
+  },
+  {
+   "orderUuid": "00000000-0000-4000-8000-000000000003",
+   "side": "buy",
+   "orderType": "limit",
+   "createdAt": "2026-01-15T14:00:00.000Z",
+   "updatedAt": "2026-01-15T14:02:10.000Z",
+   "symbol": "FALABELLA",
+   "filledQty": 39,
+   "filledTotal": 246920,
+   "limitPrice": 6320,
+   "total": 246920,
+   "price": {
+    "primaryValue": {
+     "value": "Precio promedio"
+    },
+    "secondaryValue": {
+     "value": 6320
+    }
+   },
+   "qty": {
+    "primaryValue": {
+     "value": "Acciones compradas"
+    },
+    "secondaryValue": {
+     "value": "39/39"
+    }
+   },
+   "summaryLines": [
+    {
+     "primaryValue": {
+      "value": "Sub total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 246480,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Comisión",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 370,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Iva",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 70,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 246920,
+      "color": "primary",
+      "bold": true
+     }
+    }
+   ],
+   "status": "Completada",
+   "asset": {
+    "name": "Falabella S.A.",
+    "symbol": "FALABELLA",
+    "assetType": "Stock",
+    "exchange": "BCS"
+   }
+  },
+  {
+   "orderUuid": "00000000-0000-4000-8000-000000000002",
+   "side": "buy",
+   "orderType": "limit",
+   "createdAt": "2025-12-10T14:00:00.000Z",
+   "updatedAt": "2025-12-10T14:02:10.000Z",
+   "symbol": "SQM-B",
+   "filledQty": 5,
+   "filledTotal": 291069,
+   "limitPrice": 58110,
+   "total": 291069,
+   "price": {
+    "primaryValue": {
+     "value": "Precio promedio"
+    },
+    "secondaryValue": {
+     "value": 58110
+    }
+   },
+   "qty": {
+    "primaryValue": {
+     "value": "Acciones compradas"
+    },
+    "secondaryValue": {
+     "value": "5/5"
+    }
+   },
+   "summaryLines": [
+    {
+     "primaryValue": {
+      "value": "Sub total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 290550,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Comisión",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 436,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Iva",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 83,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 291069,
+      "color": "primary",
+      "bold": true
+     }
+    }
+   ],
+   "status": "Completada",
+   "asset": {
+    "name": "Sociedad Química y Minera de Chile S.A.",
+    "symbol": "SQM-B",
+    "assetType": "Stock",
+    "exchange": "BCS"
+   }
+  },
+  {
+   "orderUuid": "00000000-0000-4000-8000-000000000001",
+   "side": "buy",
+   "orderType": "limit",
+   "createdAt": "2025-11-21T14:00:00.000Z",
+   "updatedAt": "2025-11-21T14:02:10.000Z",
+   "symbol": "CFMITNIPSA",
+   "filledQty": 89,
+   "filledTotal": 419598.82,
+   "limitPrice": 4706.2001953125,
+   "total": 419598.82,
+   "price": {
+    "primaryValue": {
+     "value": "Precio promedio"
+    },
+    "secondaryValue": {
+     "value": 4706.2001953125
+    }
+   },
+   "qty": {
+    "primaryValue": {
+     "value": "Acciones compradas"
+    },
+    "secondaryValue": {
+     "value": "89/89"
+    }
+   },
+   "summaryLines": [
+    {
+     "primaryValue": {
+      "value": "Sub total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 418851.82,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Comisión",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 628,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Iva",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 119,
+      "color": "primary",
+      "bold": true
+     }
+    },
+    {
+     "primaryValue": {
+      "value": "Total",
+      "color": "primary",
+      "bold": false
+     },
+     "secondaryValue": {
+      "value": 419598.82,
+      "color": "primary",
+      "bold": true
+     }
+    }
+   ],
+   "status": "Completada",
+   "asset": {
+    "name": "Itaú ETF IT Now S&P IPSA",
+    "symbol": "CFMITNIPSA",
+    "assetType": "ETF",
+    "exchange": "BCS"
+   }
+  }
+ ],
+ "nextToken": null
+}

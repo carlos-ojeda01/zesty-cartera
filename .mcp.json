@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zesty": {
+      "type": "http",
+      "url": "https://mcp.zestyfinance.com/mcp"
+    }
+  }
+}
